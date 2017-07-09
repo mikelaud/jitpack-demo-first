@@ -5,4 +5,5 @@ JitPack demo: jitpack-demo-first project used by jitpack-demo-second project
 Links:
 
 https://github.com/mikelaud/jitpack-demo-first
+
 https://github.com/mikelaud/jitpack-demo-second
