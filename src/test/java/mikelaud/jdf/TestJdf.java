@@ -8,7 +8,7 @@ public class TestJdf {
 
 	@Test
 	public void test() {
-		assertTrue(JitpackDemoFirst.exec());
+		assertTrue(new JitpackDemoFirst().exec());
 	}
 	
 }
